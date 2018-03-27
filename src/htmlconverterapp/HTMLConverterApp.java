@@ -1,4 +1,4 @@
-package htmlconcerterapp;
+package htmlconverterapp;
 
 public class HTMLConverterApp {
 
